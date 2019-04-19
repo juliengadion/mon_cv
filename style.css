@@ -1,0 +1,55 @@
+#adress{
+    text-align: right;
+    color: floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: tahoma;
+}
+
+.contact{
+    color: floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: tahoma;
+}
+
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+    margin-top: 2em;
+    margin-left: 10em;
+    margin-right: 10em;
+    background-color: black;
+    height: 100px;
+}
+
+header{
+    background-color: dimgrey;
+    width: 80%;
+    margin: auto;
+}
+
+h2{
+    color: floralwhite;
+    background-color: black;
+    margin-left: 20em;
+    margin-right: 20em;
+    text-align: center;
+}
+
+h4{
+    height: 10px;
+}
+
+li{
+    text-align: left;
+}
+
+aside{
+    text-align: center;
+    background-color: lightgray;
+}
