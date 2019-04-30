@@ -1,3 +1,26 @@
+header{
+    background-color: rgb(133, 173, 185);
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+    margin-top: 3em;
+    margin-left: 10em;
+    margin-right: 10em;
+    background-color: rgb(3, 49, 109);
+    height: 80px;
+}
+
+
+li{
+    margin-right: 100px;
+ 
+}
+
+
 #adress{
     text-align: right;
     color: floralwhite;
@@ -13,43 +36,71 @@
     font-family: tahoma;
 }
 
+img{}
+
+nav{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
 body{
-    background-color: darkgrey;
-}
-
-h1{
-    text-align: center;
-    color: floralwhite;
-    margin-top: 2em;
-    margin-left: 10em;
-    margin-right: 10em;
-    background-color: black;
-    height: 100px;
-}
-
-header{
-    background-color: dimgrey;
-    width: 80%;
+    background-color: rgb(219, 228, 230);
+    height: 80px;
     margin: auto;
 }
+
+
+
+
 
 h2{
     color: floralwhite;
     background-color: black;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+ul{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+h3{
     margin-left: 20em;
     margin-right: 20em;
     text-align: center;
+
 }
+
+
 
 h4{
-    height: 10px;
+    color: floralwhite;
+    background-color: rgb(91, 108, 163);
+    width: 80%;
+    margin-right: 80px;
+    margin: auto;
+    text-align: center;
 }
 
-li{
-    text-align: left;
-}
+
 
 aside{
-    text-align: center;
-    background-color: lightgray;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(138, 148, 160);
+}
+
+div#cursus{
+    margin:auto;
+    display: inline;
 }
