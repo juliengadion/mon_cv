@@ -1,106 +1,22 @@
-header{
-    background-color: rgb(133, 173, 185);
-    width: 80%;
+.page{
+    width: 780px;
     margin: auto;
+    font-size: 16px;
+    font-family: Tahoma;
 }
 
-h1{
-    text-align: center;
-    color: floralwhite;
-    margin-top: 3em;
-    margin-left: 10em;
-    margin-right: 10em;
-    background-color: rgb(3, 49, 109);
-    height: 80px;
+.infophoto{
+    height: 250px;
 }
 
-
-li{
-    margin-right: 100px;
- 
+.info{
+    float: left;
 }
 
-
-#adress{
-    text-align: right;
-    color: floralwhite;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: tahoma;
+.photo{
+    float: right;
 }
 
-.contact{
-    color: floralwhite;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: tahoma;
-}
-
-img{}
-
-nav{
-    display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  
-}
-
-body{
-    background-color: rgb(219, 228, 230);
-    height: 80px;
-    margin: auto;
-}
-
-
-
-
-
-h2{
-    color: floralwhite;
-    background-color: black;
-    width: 80%;
-    margin: auto;
-    text-align: center;
-}
-
-
-
-ul{
-    width: 80%;
-    margin: auto;
-}
-
-
-
-h3{
-    margin-left: 20em;
-    margin-right: 20em;
-    text-align: center;
-
-}
-
-
-
-h4{
-    color: floralwhite;
-    background-color: rgb(91, 108, 163);
-    width: 80%;
-    margin-right: 80px;
-    margin: auto;
-    text-align: center;
-}
-
-
-
-aside{
-    width: 80%;
-    margin: auto;
-    background-color: rgb(138, 148, 160);
-}
-
-div#cursus{
-    margin:auto;
-    display: inline;
+.section{
+    margin-bottom: 70px;
 }
