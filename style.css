@@ -5,12 +5,14 @@ body{
 
 header{
     background-color: grey;
+    size: 5000px;
 }
 
 
 h1{
     background-image: url("abstract.jpg");
     height: 200px;
+    text-align: center;
 }
 
 
@@ -41,7 +43,7 @@ h1{
 
 aside{
     width: 400px;
-    margin: auto;
+    margin: left;
     font-size: 16px;
     font-family: Tahoma;
 }
@@ -49,6 +51,13 @@ aside{
 div.section{
     width: 2000px;
     height: 20px;
+}
+
+div.sec-gauche{
+width: 1000px;    
+margin: right;
+height: 1px;
+
 }
 
 .container {
@@ -65,6 +74,7 @@ div.section{
   
 
 h2{
+    margin-top: 200px;
     text-align: center;
 }
 
